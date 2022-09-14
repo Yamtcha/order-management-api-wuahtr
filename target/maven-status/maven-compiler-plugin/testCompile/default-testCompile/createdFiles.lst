@@ -1,0 +1,4 @@
+com\order\management\api\yamkelavenfolo\addAndRemoveItemTests\RemoveItemTests.class
+com\order\management\api\yamkelavenfolo\getOrderTests\GetOrderTests.class
+com\order\management\api\yamkelavenfolo\deleteOrderTests\DeleteOrderTests.class
+com\order\management\api\yamkelavenfolo\addAndRemoveItemTests\AddItemTests.class
